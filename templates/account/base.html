@@ -1,0 +1,99 @@
+{% load static %}
+{% load crispy_forms_tags %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MediaReviewr | {% block head_title %}{% endblock %}</title>
+    {% block extra_head %}
+    {% endblock %}
+
+    <link href="{% static 'css/index.css' %}" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+
+    <meta property="og:title" content="MediaReviewr | Movies, Anime, Literature and more" />
+    <meta property="og:description" content="Read and post recommendations about all kinds of media. Discuss your favorite movies, or read about your new favorite series. Display your own list, and show others what you're watching." />
+    <meta property="og:url" content="https://www.mediareviewr.com/" />
+    <meta property="og:image" content="https://mediareviewer.s3.amazonaws.com/static/images/Logo.png" />
+
+    <meta name="description" content="Create an account, or sign in to an existing one. Having an account will allow you to gain points, create posts, follow other users, comment, like and more."/>
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://mediareviewer.s3.amazonaws.com/static/images/Logo.png" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script type="application/ld+json">
+      {"@context" : "http://schema.org",
+       "@type" : "Social Media",  
+        "name" : "MediaReviewr",
+        "logo": "https://mediareviewer.s3.amazonaws.com/static/images/Logo.png" }
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6QRD32MV27"></script>
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-230585761-1">
+    </script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-230585761-1');
+    </script>
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-6QRD32MV27');
+    </script>
+    <!-- Reddit Pixel -->
+    <script>
+      !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_ool6adjk', {"optOut":false,"useDecimalCurrencyValues":true,"aaid":"<AAID-HERE>","email":"<EMAIL-HERE>","externalId":"<EXTERNAL-ID-HERE>","idfa":"<IDFA-HERE>"});rdt('track', 'PageVisit');
+    </script>
+    <!-- DO NOT MODIFY UNLESS TO REPLACE A USER IDENTIFIER -->
+    <!-- End Reddit Pixel -->
+    <script>
+      rdt('track', 'SignUp');
+    </script>
+    <script>
+      rdt('track', 'ViewContent');
+    </script>
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="preload"
+    as="style"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" />
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap"
+          media="print" onload="this.media='all'" />
+
+    <noscript>
+      <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" />
+    </noscript>
+
+  </head>
+  <body class="form-body">
+    <img class="logo-login" src="https://mediareviewer.s3.amazonaws.com/static/images/Logo.png" alt="Logo"></img>
+    {% block body %}
+
+    <div class="accounts-form-container">
+      <h2 className="accounts-title">MediaReviewr</h2>
+      {% block content %}
+      {% endblock %}
+      {% endblock %}
+      {% block extra_body %}
+      {% endblock %}
+      <a href="https://www.mediareviewr.com/" class="skip-link">Return to the homepage</a>
+    </div>
+    
+  </body>
+</html>

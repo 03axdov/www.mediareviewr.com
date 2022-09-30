@@ -1,0 +1,109 @@
+{% load static %}
+
+{% load crispy_forms_tags %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+
+    <meta name="viewport" content="width=device-width, minimal-ui">
+
+    <meta property="og:site_name" content="MediaReviewr" />
+    <meta property="og:title" content="MediaReviewr | Movies, Anime, Literature and more" />
+    <meta property="og:description" content="Read and post recommendations about all kinds of media. Discuss your favorite movies, or read about your new favorite series. Display your own list, and show others what you're watching." />
+    <meta property="og:url" content="https://www.mediareviewr.com/" />
+    <meta property="og:image" content="https://mediareviewer.s3.amazonaws.com/static/images/Logo.png" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://mediareviewer.s3.amazonaws.com/static/images/Logo.png" />
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link href="{% static 'css/index.css' %}" rel="stylesheet" type="text/css">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="preload"
+    as="style"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" />
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap"
+          media="print" onload="this.media='all'" />
+
+    <noscript>
+      <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" />
+    </noscript>
+
+    <title>MediaReviewr | Media Recommendations</title>
+    <meta name="description" content="Find and post recommendations concerning movies, anime, literature and more. Discuss your favorite media and upload lists. Look at what others are interested in and share what you are currently watching."/>
+    <meta name=”robots” content=”index, follow”>
+
+    <script type="application/ld+json">
+      {"@context" : "http://schema.org",
+       "@type" : "Company",  
+        "name" : "MediaReviewr",
+        "url" : "https://www.mediareviewr.com", 
+        "logo": "https://mediareviewer.s3.amazonaws.com/static/images/Logo.png",
+        "description": "Find movie, anime and book recommendations. Discuss different media and collect points." }
+    </script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-230585761-1">
+    </script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-230585761-1');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6QRD32MV27"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-6QRD32MV27');
+    </script>
+    <!-- Reddit Pixel -->
+    <script>
+      !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_ool6adjk', {"optOut":false,"useDecimalCurrencyValues":true,"aaid":"<AAID-HERE>","email":"<EMAIL-HERE>","externalId":"<EXTERNAL-ID-HERE>","idfa":"<IDFA-HERE>"});rdt('track', 'PageVisit');
+    </script>
+    <!-- DO NOT MODIFY UNLESS TO REPLACE A USER IDENTIFIER -->
+    <!-- End Reddit Pixel -->
+    <script>
+      rdt('track', 'SignUp');
+    </script>
+    <script>
+      rdt('track', 'ViewContent');
+    </script>
+  </head>
+  <body>
+    
+      <div id="app">
+          
+      </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="{% static 'frontend/main.js' %}"></script>
+    <!-- <script type="text/javascript" src="{% static 'frontend/social.js' %}"></script> -->
+
+  </body>
+</html>
