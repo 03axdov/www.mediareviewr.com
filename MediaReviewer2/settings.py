@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 1 # Hidden
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['mediareviewer.herokuapp.com', '127.0.0.1', 'www.mediareviewr.com', 'mediareviewr.com']
 
@@ -82,7 +82,7 @@ ROOT_URLCONF = 'MediaReviewer2.urls'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 ACCOUNT_EMAIL_VERIFICATION = "none"
 
-SECURE_SSL_REDIRECT = False
+SECURE_SSL_REDIRECT = True
 
 #CORS_REPLACE_HTTPS_REFERER      = False
 #HOST_SCHEME                     = "http://"
