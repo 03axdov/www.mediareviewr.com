@@ -11,7 +11,7 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-48
   - Users can specify what type of media, such as movies, that their post concerns.
   - Posts consist of a title, the title of the concerned media, and a body of up to 2000 words.
   - Additionally, posts can have pictures or videos, and users can see when they were posted.
-  - Posts can be added to groups, and authors can specify what--if any--streaming services the media can be viewed on (if it's not a game or literature).
+  - Posts can be added to a maximum of 3 groups (explained later), and authors can specify what--if any--streaming services the media can be viewed on (if it's not a game or literature).
 
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46f9-9d93-3d22e85478b2
 
@@ -34,5 +34,6 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/d4778dd3-9073-4a
 
   - The posts in a group can be sorted by current popularity, all-time popularity, and recency.
   - The top posters to a group can be seen.
+  - There is a 'Create Post' button in all groups, that automatically adds the post to the group.
 
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/65e97a7d-7c09-44af-b761-6d23d1f42010
