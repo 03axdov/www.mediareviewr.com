@@ -1,4 +1,4 @@
-# <a href="https://www.mediareviewr.com/">MediaReviewer2</a>
+# <a href="https://www.mediareviewr.com/">MediaReviewr</a>
 
 Built with React for the frontend and Python's Django module for the backend. This project taught me a lot, mainly working on large scale projects and gradually implementing features based on initial ideas and concepts. I also learned how to use specific tools that make hosting and setting up a website easier, such as Heroku, AWS and where to buy domains and SSL Certificates.
 
