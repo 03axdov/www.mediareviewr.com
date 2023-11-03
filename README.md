@@ -26,3 +26,9 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46
 
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/de7bfbb7-23c4-4c2b-a636-72909ad12602
 
+  - Users can create groups, that posts can then be uploaded to.
+  - Groups consist of a banner, a picture, a name, and a biography.
+  - Groups can allow only posts of a certain type, such as movies, or all posts.
+
+https://github.com/03axdov/www.mediareviewr.com/assets/62298758/d4778dd3-9073-4af9-8ecd-8e6f0d674ca3
+
