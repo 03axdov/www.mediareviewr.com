@@ -24,5 +24,5 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46
   - An account's posts can be seen on their profile. These can be sorted by popularity or by recency.
   - An account's friends can bee seen on their profile.
 
-https://github.com/03axdov/www.mediareviewr.com/assets/62298758/61fe6620-b65a-4210-bf10-a725b79d386e
+https://github.com/03axdov/www.mediareviewr.com/assets/62298758/de7bfbb7-23c4-4c2b-a636-72909ad12602
 
