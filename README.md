@@ -10,6 +10,7 @@ What this project taught me:
     - HTML and CSS
     - Integrating backend and frontend  
   - Working on large scale projects
+  - Working with databases (PostgresSQL)
   - Working with AWS
   - Hosting websites
 
