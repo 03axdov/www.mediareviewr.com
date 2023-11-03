@@ -25,6 +25,8 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46
   - The feed can be filtered by media type and by streaming services (filtering by streaming services automatically removes posts concerning literature and games).
   - Users have a watchlist (so long as they have an account), where they can write down notes, such as the titles of movies.
   - Users can see which movies, series, etc. are currently trending (have been posted to the most recently) by clicking on the 'Trending' button.
+  - Users can search for post titles, names etc. If the search corresponds with the name of a movie, series etc. the average score will be shown.
+  - Users can click on the name at the top right corner of a post in order to search for that media.
 
 ## Profiles:
   - Users can add info, such as a bio, a status, and a profile picture to their account.
