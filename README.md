@@ -4,7 +4,6 @@ Built with React for the frontend and Python's Django module for the backend. Th
 
 Basically a social media website dedicated towards different forms of entertainment, such as movies. Sort of like IMDB but with a focus on social aspects, such as displaying your favorite works or what you're currently watching to your friends. Mainly a project for learning how to create a website, however.
 
-<p align="center">
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-4861-8c05-065a26330077
-</p>
+
 
