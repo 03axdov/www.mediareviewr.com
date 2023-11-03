@@ -14,8 +14,17 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-48
   - Posts consist of a title, the title of the concerned media, and a body of up to 2000 words.
   - Additionally, posts can have pictures or videos, and users can see when they were posted.
   - Posts can be added to a maximum of 3 groups (explained later), and authors can specify what--if any--streaming services the media can be viewed on (if it's not a game or literature).
+  - Posts can be liked or disliked by other users.
+  - Other users can add comments to posts, and these can be liked or disliked.
+  - Users can save posts, which they will then be able to see in ther 'Saved' feed.
 
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46f9-9d93-3d22e85478b2
+
+## The Homepage:
+  - Users can scroll through posts and the feed will update automatically so that the user never reaches the bottom of the page so long as there are unseen posts (known as infinite scroll).
+  - The feed can be filtered by media type and by streaming services (filtering by streaming services automatically removes posts concerning literature and games).
+  - Users have a watchlist (so long as they have an account), where they can write down notes, such as the titles of movies.
+  - Users can see which movies, series, etc. are currently trending (have been posted to the most recently) by clicking on the 'Trending' button.
 
 ## Profiles:
   - Users can add info, such as a bio, a status, and a profile picture to their account.
