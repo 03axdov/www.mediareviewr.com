@@ -11,7 +11,7 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-48
 ## Posts:
   - Posts can be created so long as a user is logged in to an account.
   - Users can specify what type of media, such as movies, that their post concerns.
-  - Posts consist of a title, the title of the concerned media, and a body of up to 2000 words.
+  - Posts consist of a title, the title of the concerned media, the rating (from 0% to 100% with increments of 5%) and a body of up to 2000 words.
   - Additionally, posts can have pictures or videos, and users can see when they were posted.
   - Posts can be added to a maximum of 3 groups (explained later), and authors can specify what--if any--streaming services the media can be viewed on (if it's not a game or literature).
   - Posts can be liked or disliked by other users.
