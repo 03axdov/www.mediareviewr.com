@@ -1,6 +1,15 @@
 # <a href="https://www.mediareviewr.com/">MediaReviewr</a>
 
-Built with React for the frontend and Python's Django module for the backend. This project taught me a lot, mainly working on large scale projects and gradually implementing features based on initial ideas and concepts. I also learned how to use specific tools that make hosting and setting up a website easier, such as Heroku, AWS and where to buy domains and SSL Certificates. Basically a social media website dedicated towards different forms of entertainment, such as movies. Sort of like IMDB combined with Facebook.
+Basically a social media website dedicated towards different forms of entertainment, such as movies. Sort of like IMDB combined with Facebook.
+Built with React for the frontend and Python's Django module for the backend. AWS is used to store uploaded images and Heroku is used to host the website.
+
+What this project taught me:
+  - Web Development
+    - HTML and CSS
+    - Integrating backend and frontend  
+  - Working on large scale projects
+  - Working with AWS
+  - Hosting websites
 
 # Functionality
 ## Accounts:
