@@ -32,3 +32,7 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/de7bfbb7-23c4-4c
 
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/d4778dd3-9073-4af9-8ecd-8e6f0d674ca3
 
+  - The posts in a group can be sorted by current popularity, all-time popularity, and recency.
+  - The top posters to a group can be seen.
+
+https://github.com/03axdov/www.mediareviewr.com/assets/62298758/65e97a7d-7c09-44af-b761-6d23d1f42010
