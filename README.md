@@ -7,3 +7,7 @@ Basically a social media website dedicated towards different forms of entertainm
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62298758/193331982-33837891-9c37-4346-b20d-75eeb59e356b.png" />
 </p>
+
+
+https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-4861-8c05-065a26330077
+
