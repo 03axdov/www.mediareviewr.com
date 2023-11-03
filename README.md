@@ -5,6 +5,8 @@ Built with React for the frontend and Python's Django module for the backend. AW
 
 What this project taught me:
   - Web Development
+    - Django and React
+    - NodeJS
     - HTML and CSS
     - Integrating backend and frontend  
   - Working on large scale projects
