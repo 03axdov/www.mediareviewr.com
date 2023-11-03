@@ -4,6 +4,7 @@ Built with React for the frontend and Python's Django module for the backend. Th
 
 ## Functionality:
   - Accounts can be created with emails, and users can then log in and log out of their account.
-  - https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-4861-8c05-065a26330077
+    
+https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-4861-8c05-065a26330077
 
 
