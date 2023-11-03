@@ -9,3 +9,10 @@ Built with React for the frontend and Python's Django module for the backend. Th
 https://github.com/03axdov/www.mediareviewr.com/assets/62298758/7bc58a57-311f-4861-8c05-065a26330077
 
   - Posts can be created so long as a user is logged in to an account.
+  - Users can specify what type of media, such as movies, that their post concerns.
+  - Posts consist of a title, the title of the concerned media, and a body of up to 2000 words.
+  - Additionally, posts can have pictures or videos.
+  - Posts can be added to groups, and authors can specify what--if any--streaming services the media can be viewed on (if it's not a game or literature).
+
+https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46f9-9d93-3d22e85478b2
+
