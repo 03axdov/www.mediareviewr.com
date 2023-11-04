@@ -40,6 +40,7 @@ https://github.com/03axdov/www.mediareviewr.com/assets/62298758/ce469a6b-4687-46
   - Users can see which movies, series, etc. are currently trending (have been posted to the most recently) by clicking on the 'Trending' button.
   - Users can search for post titles, names etc. If the search corresponds with the name of a movie, series etc. the average score will be shown.
   - Users can click on the name at the top right corner of a post in order to search for that media.
+  - Additionally, users that interact mainly with particular types of posts, such as movie reviews, will tend to see more of those in their feed.
 
 ## Profiles:
   - Users can add info, such as a bio, a status, and a profile picture to their account.
