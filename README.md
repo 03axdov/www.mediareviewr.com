@@ -1,6 +1,6 @@
 # <a href="https://www.mediareviewr.com/">MediaReviewr</a>
 
-Basically a social media website dedicated towards different forms of entertainment, such as movies. Sort of like IMDB combined with Facebook.
+> A social media website dedicated towards different forms of entertainment, such as movies. Sort of like IMDB combined with Facebook.
 Built with React for the frontend and Python's Django module for the backend. AWS is used to store uploaded images and Heroku is used to host the website.
 
 What this project taught me:
