@@ -16,7 +16,7 @@ What this project taught me:
   - Working with AWS
   - Hosting websites
 
-The code is definitely a bit messy, though my programming has developed quite a lot since this project.
+The code is definitely a bit messy, though my programming has developed quite a lot since this project. Additionally, the infinite scroll mechanic is currently a bit wonky, causing some points to jump.
 
 # Functionality
 ## Accounts:
