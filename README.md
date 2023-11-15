@@ -16,6 +16,8 @@ What this project taught me:
   - Working with AWS
   - Hosting websites
 
+The code is definitely a bit messy, though my programming has developed quite a lot since this project.
+
 # Functionality
 ## Accounts:
   - Accounts can be created with emails, and users can then log in and log out of their account.
